@@ -7,7 +7,7 @@ public class Main {
 
         System.out.println("NOTA: " + nota);
         System.out.println("Nome do Professor 1: " + prof1.getNome());
-        System.out.println("Salário do Professor 1" + prof1.getSalario());
+        System.out.println("Salário do Professor 1: " + prof1.getSalario());
 
     }
 
